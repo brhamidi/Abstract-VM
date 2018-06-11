@@ -1,3 +1,3 @@
 # Abstract-VM
 make
-./abstrackt_mv [file] or from standar input
+./abstrackt_mv [file] or from standard input
